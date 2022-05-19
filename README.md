@@ -1,2 +1,2 @@
 # JS-Challenges
-Desafíos resueltos en JS
+Various challenges solved using Javascript
